@@ -1,0 +1,51 @@
+100.00	20670	0	R	1	root
+93.96	19421	0	D	10239	  Viruses
+93.96	19421	0	D1	35237	    dsDNA viruses, no RNA stage
+93.96	19421	0	O	28883	      Caudovirales
+93.96	19421	0	F	10699	        Siphoviridae
+93.96	19421	0	F1	1910999	          Tunavirinae
+93.76	19381	0	G	187217	            T1virus
+92.09	19033	19033	S	1921008	              Escherichia virus T1
+1.15	237	237	S	1921004	              Escherichia virus ADB2
+0.38	78	78	S	1002724	              Shigella virus Shfl1
+0.15	31	31	S	1921005	              Shigella virus PSf2
+0.19	40	0	G	1920864	            Rtpvirus
+0.19	40	40	S	355246	              Escherichia virus Rtp
+6.04	1249	0	R1	131567	  cellular organisms
+5.87	1213	0	D	2	    Bacteria
+5.87	1213	0	P	1224	      Proteobacteria
+5.87	1213	0	C	1236	        Gammaproteobacteria
+5.87	1213	0	O	91347	          Enterobacterales
+5.87	1213	0	F	543	            Enterobacteriaceae
+5.87	1213	0	G	561	              Escherichia
+5.87	1213	1213	S	562	                Escherichia coli
+0.17	35	0	D	2759	    Eukaryota
+0.17	35	0	D1	33154	      Opisthokonta
+0.17	35	0	K	33208	        Metazoa
+0.17	35	0	K1	6072	          Eumetazoa
+0.17	35	0	K2	33213	            Bilateria
+0.17	35	0	K3	33511	              Deuterostomia
+0.17	35	0	P	7711	                Chordata
+0.17	35	0	P1	89593	                  Craniata
+0.17	35	0	P2	7742	                    Vertebrata
+0.17	35	0	P3	7776	                      Gnathostomata
+0.17	35	0	P4	117570	                        Teleostomi
+0.17	35	0	P5	117571	                          Euteleostomi
+0.17	35	0	P6	8287	                            Sarcopterygii
+0.17	35	0	P7	1338369	                              Dipnotetrapodomorpha
+0.17	35	0	P8	32523	                                Tetrapoda
+0.17	35	0	P9	32524	                                  Amniota
+0.17	35	0	C	40674	                                    Mammalia
+0.17	35	0	C1	32525	                                      Theria
+0.17	35	0	C2	9347	                                        Eutheria
+0.17	35	0	C3	1437010	                                          Boreoeutheria
+0.17	35	0	C4	314146	                                            Euarchontoglires
+0.17	35	0	O	9443	                                              Primates
+0.17	35	0	O1	376913	                                                Haplorrhini
+0.17	35	0	O2	314293	                                                  Simiiformes
+0.17	35	0	O3	9526	                                                    Catarrhini
+0.17	35	0	O4	314295	                                                      Hominoidea
+0.17	35	0	F	9604	                                                        Hominidae
+0.17	35	0	F1	207598	                                                          Homininae
+0.17	35	0	G	9605	                                                            Homo
+0.17	35	35	S	9606	                                                              Homo sapiens

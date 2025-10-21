@@ -1,0 +1,11 @@
+15:45:32.451 - INFO - UTILS - version=1.11.4
+15:45:32.451 - INFO - UTILS - developer: Oliver Schwengers, github.com/oschwengers
+15:45:32.451 - INFO - UTILS - command: /home/biosergio/.local/share/mamba/envs/bioinfo/bin/bakta --output bakta_results --prefix ancestral --genus Escherichia --species coli contigs.fasta
+15:45:32.451 - INFO - UTILS - local time: 2025-10-20 15:45:32
+15:45:32.455 - INFO - UTILS - machine: type=x86_64, cores=8
+15:45:32.455 - INFO - UTILS - system: type=Linux, release=6.6.87.2-microsoft-standard-WSL2
+15:45:32.455 - INFO - UTILS - python: version=3.10.14, implementation=CPython
+15:45:32.455 - INFO - CONFIG - threads=8
+15:45:32.455 - INFO - CONFIG - verbose=False
+15:45:32.455 - INFO - CONFIG - debug=False
+15:45:32.456 - ERROR - CONFIG - unvalid database path: type=base-dir, path=/home/biosergio/.local/share/mamba/envs/bioinfo/lib/python3.10/site-packages/bakta/db

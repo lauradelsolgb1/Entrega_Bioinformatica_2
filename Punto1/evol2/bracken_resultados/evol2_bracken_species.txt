@@ -1,0 +1,8 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Escherichia virus T1	1921008	S	12959	6074	19033	0.92080
+Escherichia virus ADB2	1921004	S	166	71	237	0.01147
+Shigella virus Shfl1	1002724	S	63	15	78	0.00377
+Shigella virus PSf2	1921005	S	20	11	31	0.00150
+Escherichia virus Rtp	355246	S	13	27	40	0.00194
+Escherichia coli	562	S	97	1116	1213	0.05868
+Homo sapiens	9606	S	35	0	35	0.00169
